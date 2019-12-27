@@ -64,8 +64,7 @@ The tutorial contains the following basic HTML markup.
 		settings: {
 		slidesToShow: 1,
 		slidesToScroll: 1,
-        infinite: true,
-		dots: false
+        infinite: true
 		          }
         },
         {
